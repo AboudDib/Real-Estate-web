@@ -89,24 +89,12 @@ npm install
 
 ## Usage
 
-Run the project with:
+Run the project with: for both api and app 
 
 ```bash
-npm start
+npm run dev 
 ```
 
 ---
 
-## Testing
 
-LRE uses the `test_framework` test framework. Run the test suite with:
-
-```bash
-npm test
-```
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
