@@ -80,8 +80,8 @@ This project requires the following dependencies:
 Build LRE from the source and install dependencies:
 
 ```bash
-git clone https://github.com/abdallahdib/lree
-cd lree
+git clone https://github.com/AboudDib/Real-Estate-web
+cd Real-Estate-web
 npm install
 ```
 
