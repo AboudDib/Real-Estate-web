@@ -1,0 +1,14 @@
+# Ignore environment variables
+.env
+
+# Node modules folder
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Build output (if any)
+dist/
+build/
